@@ -4,7 +4,7 @@ The project is a portfolio draft. It was created with basic html, css and vanill
 
 ## Link to Website
 
-Link to [Portfolio](https://baltazar-j.github.io/portfolio/) 
+Link to [Portfolio](https://baltazar-j.github.io/portfolio/)
 
 ## Tech Stack
 
