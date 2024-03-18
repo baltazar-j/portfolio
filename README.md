@@ -4,7 +4,7 @@ The project is a portfolio draft. It was created with basic html, css and vanill
 
 ## Link to Website
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Link to [Portfolio](https://baltazar-j.github.io/portfolio/) 
 
 ## Tech Stack
 
